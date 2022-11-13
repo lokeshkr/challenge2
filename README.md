@@ -13,3 +13,6 @@ Hints
 ·       Google Documentation
 
 ![image](https://user-images.githubusercontent.com/10312519/201327663-8e211320-3ce6-4a26-b464-02bd7090c6b4.png)
+
+Output :
+![image](https://user-images.githubusercontent.com/10312519/201528076-102c1bd8-a555-4483-996d-cc3b7410c8ae.png)
